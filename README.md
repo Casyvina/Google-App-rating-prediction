@@ -1,5 +1,5 @@
 # Google-App-rating-predictions - Machine Learning
-!(logo)(app-rating.png)
+![logo](app-rating.png)
 
 We have a dataset that contains information of apps that are present in google. it states out some of the 
 characteristics of these apps. This information is scraped from the Google play store. we will be using this datset to predict the rating for the apps.
